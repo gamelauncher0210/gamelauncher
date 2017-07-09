@@ -1,2 +1,2 @@
 # gamelauncher
-get html code
+get html code in an easy way
